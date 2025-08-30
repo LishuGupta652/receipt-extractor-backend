@@ -1,0 +1,1213 @@
+[
+  {
+    "id": "413836fc-6857-49fd-adb8-6b408c076873",
+    "date": "2024-04-27",
+    "currency": "USD",
+    "vendor_name": "Best Electronics Store",
+    "receipt_items": [
+      {
+        "item_name": "Wireless Mouse",
+        "item_cost": 25.99
+      },
+      {
+        "item_name": "USB-C Hub",
+        "item_cost": 45.5
+      },
+      {
+        "item_name": "Bluetooth Keyboard",
+        "item_cost": 65.75
+      }
+    ],
+    "tax": 11.95,
+    "total": 149.19,
+    "image_url": "/receipts/413836fc-6857-49fd-adb8-6b408c076873.jpg"
+  },
+  {
+    "id": "730defd9-7cc9-450a-bae4-bfe684bc8945",
+    "date": "2021-03-26",
+    "currency": "USD",
+    "vendor_name": "164 MAIN STREET - ROUTE 1 SAUGUS, MA",
+    "receipt_items": [
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 2
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 3
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 0
+      },
+      {
+        "item_name": "42200 (Conveneince Items)",
+        "item_cost": 4.22
+      },
+      {
+        "item_name": "MR CHARITY NP",
+        "item_cost": 1
+      }
+    ],
+    "tax": 1.27,
+    "total": 12.79,
+    "image_url": "/receipts/730defd9-7cc9-450a-bae4-bfe684bc8945.jpg"
+  },
+  {
+    "id": "05550400-6f30-428a-8a24-f1ff306185a6",
+    "date": "2023-09-09",
+    "currency": "AUD",
+    "vendor_name": "Foot Locker Australia, Inc",
+    "receipt_items": [
+      {
+        "item_name": "PALOMINO® BLK/GLD-YEL",
+        "item_cost": 250
+      }
+    ],
+    "tax": 25,
+    "total": 250,
+    "image_url": "/receipts/05550400-6f30-428a-8a24-f1ff306185a6.png"
+  },
+  {
+    "id": "6b00a60e-7781-4599-80ab-9db880e849cf",
+    "currency": "AUD",
+    "date": "2023-09-09",
+    "receipt_items": [
+      {
+        "item_cost": 250,
+        "item_name": "NK Al RET HI 0G 'PALOMIND® BLK/GLD-YEL"
+      }
+    ],
+    "total": 250,
+    "vendor_name": "Foot Locker",
+    "tax": 1.23,
+    "image_url": "/receipts/6b00a60e-7781-4599-80ab-9db880e849cf.png"
+  },
+  {
+    "id": "5b58286c-cf5d-4959-bd48-64ccb214a406",
+    "currency": "USD",
+    "date": "2017-07-28",
+    "receipt_items": [
+      {
+        "item_cost": 1.97,
+        "item_name": "PET TOY"
+      },
+      {
+        "item_cost": 1.97,
+        "item_name": "FLOPPY PUPPY"
+      },
+      {
+        "item_cost": 4.97,
+        "item_name": "SSSUPREME S"
+      },
+      {
+        "item_cost": 5.92,
+        "item_name": "2.5 SQUEAK"
+      },
+      {
+        "item_cost": 3.77,
+        "item_name": "MUNCHY DMBEL"
+      },
+      {
+        "item_cost": 2.92,
+        "item_name": "DOG TREAT"
+      },
+      {
+        "item_cost": 0.5,
+        "item_name": "PED PCH 1"
+      },
+      {
+        "item_cost": 0.5,
+        "item_name": "PED PCH 1"
+      },
+      {
+        "item_cost": -1,
+        "item_name": "COUPON"
+      },
+      {
+        "item_cost": 3.98,
+        "item_name": "HNYMD SMORES"
+      },
+      {
+        "item_cost": 1.98,
+        "item_name": "FRENCH DRSNG"
+      },
+      {
+        "item_cost": 5.47,
+        "item_name": "3 ORANGES"
+      },
+      {
+        "item_cost": 1.48,
+        "item_name": "BABY CARROTS"
+      },
+      {
+        "item_cost": 1.24,
+        "item_name": "COLLARDS"
+      },
+      {
+        "item_cost": 2.5,
+        "item_name": "CALZONE"
+      },
+      {
+        "item_cost": 19.77,
+        "item_name": "MM RVW MNT"
+      },
+      {
+        "item_cost": 1.97,
+        "item_name": "STKOBRLPLABL"
+      },
+      {
+        "item_cost": 1.97,
+        "item_name": "STKOBRLPLABL"
+      },
+      {
+        "item_cost": 0.97,
+        "item_name": "STKO SUNFLWR"
+      },
+      {
+        "item_cost": 0.97,
+        "item_name": "STKO SUNFLWR"
+      },
+      {
+        "item_cost": 0.97,
+        "item_name": "STKO SUNFLWR"
+      },
+      {
+        "item_cost": 0.97,
+        "item_name": "STKO SUNFLWR"
+      },
+      {
+        "item_cost": 0.97,
+        "item_name": "BLING BEADS"
+      },
+      {
+        "item_cost": 9.97,
+        "item_name": "GREAT VALUE"
+      },
+      {
+        "item_cost": 4.48,
+        "item_name": "LIPTON"
+      },
+      {
+        "item_cost": 12.44,
+        "item_name": "DRY DOG"
+      }
+    ],
+    "total": 98.21,
+    "vendor_name": "Walmart",
+    "tax": 4.59,
+    "image_url": "/receipts/5b58286c-cf5d-4959-bd48-64ccb214a406.jpeg"
+  },
+  {
+    "id": "8b41d1fd-9653-45b3-bb19-3eacec1d3ec9",
+    "date": "2017-07-28",
+    "currency": "USD",
+    "vendor_name": "Walmart",
+    "receipt_items": [
+      {
+        "item_name": "PET TOY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "FLOPPY PUPPY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "SSSUPREME S",
+        "item_cost": 4.97
+      },
+      {
+        "item_name": "2.5 SQUEAK",
+        "item_cost": 5.92
+      },
+      {
+        "item_name": "MUNCHY DMBEL",
+        "item_cost": 3.77
+      },
+      {
+        "item_name": "DOG TREAT",
+        "item_cost": 2.92
+      },
+      {
+        "item_name": "PED PCH",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "PED PCH",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "COUPON",
+        "item_cost": -1
+      },
+      {
+        "item_name": "HNYMD SMORES",
+        "item_cost": 3.98
+      },
+      {
+        "item_name": "FRENCH DRSNG",
+        "item_cost": 1.98
+      },
+      {
+        "item_name": "3 ORANGES",
+        "item_cost": 5.47
+      },
+      {
+        "item_name": "BABY CARROTS",
+        "item_cost": 1.48
+      },
+      {
+        "item_name": "COLLARDS",
+        "item_cost": 1.24
+      },
+      {
+        "item_name": "CALZONE",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "MM RVW MNT",
+        "item_cost": 19.77
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "BLING BEADS",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "GREAT VALUE",
+        "item_cost": 9.97
+      },
+      {
+        "item_name": "LIPTON",
+        "item_cost": 4.48
+      },
+      {
+        "item_name": "DRY DOG",
+        "item_cost": 12.44
+      }
+    ],
+    "tax": 4.59,
+    "total": 98.21,
+    "image_url": "/receipts/8b41d1fd-9653-45b3-bb19-3eacec1d3ec9.jpeg"
+  },
+  {
+    "id": "114e4a64-0d0e-43bc-9211-5fe7683d7b48",
+    "date": "2023-09-09",
+    "currency": "AUD",
+    "vendor_name": "Foot Locker Australia, Inc",
+    "receipt_items": [
+      {
+        "item_name": "PALOMINO® BLK/GLD-YEL",
+        "item_cost": 250
+      }
+    ],
+    "tax": 25,
+    "total": 275,
+    "image_url": "/receipts/114e4a64-0d0e-43bc-9211-5fe7683d7b48.png"
+  },
+  {
+    "id": "66f9df72-3410-49ca-b95d-0504ca6c6cd2",
+    "date": "2023-09-09",
+    "currency": "AUD",
+    "vendor_name": "Foot Locker Australia, Inc",
+    "receipt_items": [
+      {
+        "item_name": "PALOMIND® BLK/GLD-YEL",
+        "item_cost": 250
+      }
+    ],
+    "tax": 25,
+    "total": 275,
+    "image_url": "/receipts/66f9df72-3410-49ca-b95d-0504ca6c6cd2.png"
+  },
+  {
+    "id": "a87a90ad-0779-42e1-a6b1-f5cf7d27d358",
+    "date": "2017-07-28",
+    "currency": "USD",
+    "vendor_name": "Walmart",
+    "receipt_items": [
+      {
+        "item_name": "PET TOY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "FLOPPY PUPPY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "SSSUPREME S",
+        "item_cost": 4.97
+      },
+      {
+        "item_name": "2.5 SQUEAK",
+        "item_cost": 5.92
+      },
+      {
+        "item_name": "MUNCHY DMBEL",
+        "item_cost": 3.77
+      },
+      {
+        "item_name": "DOG TREAT",
+        "item_cost": 2.92
+      },
+      {
+        "item_name": "PED PCH",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "PED PCH",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "COUPON",
+        "item_cost": -1
+      },
+      {
+        "item_name": "HNYMD SMORES",
+        "item_cost": 3.98
+      },
+      {
+        "item_name": "FRENCH DRSNG",
+        "item_cost": 1.98
+      },
+      {
+        "item_name": "3 ORANGES",
+        "item_cost": 5.47
+      },
+      {
+        "item_name": "BABY CARROTS",
+        "item_cost": 1.48
+      },
+      {
+        "item_name": "COLLARDS",
+        "item_cost": 1.24
+      },
+      {
+        "item_name": "CALZONE",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "MM RVW MNT",
+        "item_cost": 19.77
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "BLING BEADS",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "GREAT VALUE",
+        "item_cost": 9.97
+      },
+      {
+        "item_name": "LIPTON",
+        "item_cost": 4.48
+      },
+      {
+        "item_name": "DRY DOG",
+        "item_cost": 12.44
+      }
+    ],
+    "tax": 4.59,
+    "total": 98.21,
+    "image_url": "/receipts/a87a90ad-0779-42e1-a6b1-f5cf7d27d358.jpeg"
+  },
+  {
+    "id": "0a6fee24-6de9-4213-adbe-2f80ac232e1a",
+    "date": "2021-03-26",
+    "currency": "USD",
+    "vendor_name": "164 MAIN STREET - ROUTE 1, SAUGUS, MA",
+    "receipt_items": [
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 2
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 3.97
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 1
+      },
+      {
+        "item_name": "MR CHARITY NP",
+        "item_cost": 1
+      }
+    ],
+    "tax": 0,
+    "total": 14.94,
+    "image_url": "/receipts/0a6fee24-6de9-4213-adbe-2f80ac232e1a.jpg"
+  },
+  {
+    "id": "6742cadd-dc8b-41a8-b47f-c14bd15917df",
+    "date": "2017-07-28",
+    "currency": "USD",
+    "vendor_name": "Walmart",
+    "receipt_items": [
+      {
+        "item_name": "PET TOY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "FLOPPY PUPPY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "SSSUPREME S",
+        "item_cost": 4.97
+      },
+      {
+        "item_name": "2.5 SQUEAK",
+        "item_cost": 5.92
+      },
+      {
+        "item_name": "MUNCHY DMBEL",
+        "item_cost": 3.77
+      },
+      {
+        "item_name": "DOG TREAT",
+        "item_cost": 2.92
+      },
+      {
+        "item_name": "PED PCH 1",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "PED PCH 1",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "COUPON",
+        "item_cost": -1
+      },
+      {
+        "item_name": "HNYMD SMORES",
+        "item_cost": 3.98
+      },
+      {
+        "item_name": "FRENCH DRSNG",
+        "item_cost": 1.98
+      },
+      {
+        "item_name": "3 ORANGES",
+        "item_cost": 5.47
+      },
+      {
+        "item_name": "BABY CARROTS",
+        "item_cost": 1.48
+      },
+      {
+        "item_name": "COLLARDS",
+        "item_cost": 1.24
+      },
+      {
+        "item_name": "CALZONE",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "MM RVW MNT",
+        "item_cost": 19.77
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "BLING BEADS",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "GREAT VALUE",
+        "item_cost": 9.97
+      },
+      {
+        "item_name": "LIPTON",
+        "item_cost": 4.48
+      },
+      {
+        "item_name": "DRY DOG",
+        "item_cost": 12.44
+      }
+    ],
+    "tax": 4.59,
+    "total": 98.21,
+    "image_url": "/receipts/6742cadd-dc8b-41a8-b47f-c14bd15917df.jpeg"
+  },
+  {
+    "id": "54894896-a6e1-4ade-bc52-20017a5e5f81",
+    "date": "2019-11-10",
+    "currency": "USD",
+    "vendor_name": "East Repair Inc.",
+    "receipt_items": [
+      {
+        "item_name": "Frontand rear brake cables",
+        "item_cost": 100
+      },
+      {
+        "item_name": "Newsetof pedal arms",
+        "item_cost": 30
+      },
+      {
+        "item_name": "Laborahrs",
+        "item_cost": 1500
+      }
+    ],
+    "tax": 9.06,
+    "total": 154.06,
+    "image_url": "/receipts/54894896-a6e1-4ade-bc52-20017a5e5f81.png"
+  },
+  {
+    "id": "fbf46b76-24d3-444e-a84f-5ea2643c80b1",
+    "date": "2007-07-30",
+    "currency": "CHF",
+    "vendor_name": "Berghotel Grosse Scheid",
+    "receipt_items": [
+      {
+        "item_name": "Latte Macchiato",
+        "item_cost": 4
+      },
+      {
+        "item_name": "Schnitzel",
+        "item_cost": 48.9
+      }
+    ],
+    "tax": 3.85,
+    "total": 54.5,
+    "image_url": "/receipts/fbf46b76-24d3-444e-a84f-5ea2643c80b1.jpg"
+  },
+  {
+    "id": "f3e0c32c-8d91-4c2f-b1c2-4dbf8bb27cc8",
+    "date": "2021-03-26",
+    "currency": "USD",
+    "vendor_name": "Unknown",
+    "receipt_items": [
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 2
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 3.99
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 0
+      },
+      {
+        "item_name": "MR CHARITY NP",
+        "item_cost": 1
+      }
+    ],
+    "tax": 0,
+    "total": 12.97,
+    "image_url": "/receipts/f3e0c32c-8d91-4c2f-b1c2-4dbf8bb27cc8.jpg"
+  },
+  {
+    "id": "acdcd261-f558-4656-be00-7f84cd8f6de2",
+    "date": "2021-03-26",
+    "currency": "USD",
+    "vendor_name": "Unknown",
+    "receipt_items": [
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "HALLMARK CARD 200",
+        "item_cost": 7
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 3
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 0
+      },
+      {
+        "item_name": "MR CHARITY NP",
+        "item_cost": 1
+      }
+    ],
+    "tax": 0,
+    "total": 12,
+    "image_url": "/receipts/acdcd261-f558-4656-be00-7f84cd8f6de2.jpg"
+  },
+  {
+    "id": "163bb8c8-afab-4212-b0ba-d5997cc4ec69",
+    "date": "2017-07-28",
+    "currency": "USD",
+    "vendor_name": "Walmart",
+    "receipt_items": [
+      {
+        "item_name": "PET TOY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "FLOPPY PUPPY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "SSSUPREME S",
+        "item_cost": 4.97
+      },
+      {
+        "item_name": "2.5 SQUEAK",
+        "item_cost": 5.92
+      },
+      {
+        "item_name": "MUNCHY DMBEL",
+        "item_cost": 3.77
+      },
+      {
+        "item_name": "DOG TREAT",
+        "item_cost": 2.92
+      },
+      {
+        "item_name": "PED PCH",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "PED PCH",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "COUPON",
+        "item_cost": -1
+      },
+      {
+        "item_name": "HNYMD SMORES",
+        "item_cost": 3.98
+      },
+      {
+        "item_name": "FRENCH DRSNG",
+        "item_cost": 1.98
+      },
+      {
+        "item_name": "3 ORANGES",
+        "item_cost": 5.47
+      },
+      {
+        "item_name": "BABY CARROTS",
+        "item_cost": 1.48
+      },
+      {
+        "item_name": "COLLARDS",
+        "item_cost": 1.24
+      },
+      {
+        "item_name": "CALZONE",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "MM RVW MNT",
+        "item_cost": 19.77
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "BLING BEADS",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "GREAT VALUE",
+        "item_cost": 9.97
+      },
+      {
+        "item_name": "LIPTON",
+        "item_cost": 4.48
+      },
+      {
+        "item_name": "DRY DOG",
+        "item_cost": 12.44
+      }
+    ],
+    "tax": 4.59,
+    "total": 98.21,
+    "image_url": "/receipts/163bb8c8-afab-4212-b0ba-d5997cc4ec69.jpeg"
+  },
+  {
+    "id": "0191c421-592f-4839-b9c8-208b5f906b2e",
+    "date": "2021-03-26",
+    "currency": "USD",
+    "vendor_name": "164 MAIN STREET - ROUTE 1 SAUGUS, MA",
+    "receipt_items": [
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 2
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 3.99
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 3
+      },
+      {
+        "item_name": "CONVENIENCE ITEMS",
+        "item_cost": 4.22
+      },
+      {
+        "item_name": "MR CHARITY NP",
+        "item_cost": 1
+      }
+    ],
+    "tax": 0,
+    "total": 21.18,
+    "image_url": "/receipts/0191c421-592f-4839-b9c8-208b5f906b2e.jpg"
+  },
+  {
+    "id": "867b687f-c0ae-4ebf-9bdf-583338539de6",
+    "date": "2021-03-26",
+    "currency": "USD",
+    "vendor_name": "164 MAIN STREET - ROUTE 1 SAUGUS, MA",
+    "receipt_items": [
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 2
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 3.09
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 0
+      },
+      {
+        "item_name": "MR CHARITY NP",
+        "item_cost": 1
+      }
+    ],
+    "tax": 0,
+    "total": 12.77,
+    "image_url": "/receipts/867b687f-c0ae-4ebf-9bdf-583338539de6.jpg"
+  },
+  {
+    "id": "b21fb3e4-cf66-480a-b638-664f7c70c0ca",
+    "date": "2017-07-28",
+    "currency": "USD",
+    "vendor_name": "Walmart",
+    "receipt_items": [
+      {
+        "item_name": "PET TOY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "FLOPPY PUPPY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "SSSUPREME S",
+        "item_cost": 4.97
+      },
+      {
+        "item_name": "2.5 SQUEAK",
+        "item_cost": 5.92
+      },
+      {
+        "item_name": "MUNCHY DMBEL",
+        "item_cost": 3.77
+      },
+      {
+        "item_name": "DOG TREAT",
+        "item_cost": 2.92
+      },
+      {
+        "item_name": "PED PCH 1",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "PED PCH 1",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "COUPON",
+        "item_cost": -1
+      },
+      {
+        "item_name": "HNYMD SMORES",
+        "item_cost": 3.98
+      },
+      {
+        "item_name": "FRENCH DRSNG",
+        "item_cost": 1.98
+      },
+      {
+        "item_name": "3 ORANGES",
+        "item_cost": 5.47
+      },
+      {
+        "item_name": "BABY CARROTS",
+        "item_cost": 1.48
+      },
+      {
+        "item_name": "COLLARDS",
+        "item_cost": 1.24
+      },
+      {
+        "item_name": "CALZONE",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "MM RVW MNT",
+        "item_cost": 19.77
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "BLING BEADS",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "GREAT VALUE",
+        "item_cost": 9.97
+      },
+      {
+        "item_name": "LIPTON",
+        "item_cost": 4.48
+      },
+      {
+        "item_name": "DRY DOG",
+        "item_cost": 12.44
+      }
+    ],
+    "tax": 4.59,
+    "total": 98.21,
+    "image_url": "/receipts/b21fb3e4-cf66-480a-b638-664f7c70c0ca.jpeg"
+  },
+  {
+    "id": "ea45a749-b9e9-4864-a923-94d024cbcf54",
+    "date": "2017-07-28",
+    "currency": "USD",
+    "vendor_name": "Walmart",
+    "receipt_items": [
+      {
+        "item_name": "PET TOY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "FLOPPY PUPPY",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "SSSUPREME S",
+        "item_cost": 4.97
+      },
+      {
+        "item_name": "2.5 SQUEAK",
+        "item_cost": 5.92
+      },
+      {
+        "item_name": "MUNCHY DMBEL",
+        "item_cost": 3.77
+      },
+      {
+        "item_name": "DOG TREAT",
+        "item_cost": 2.92
+      },
+      {
+        "item_name": "PED PCH 1",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "PED PCH 1",
+        "item_cost": 0.5
+      },
+      {
+        "item_name": "COUPON",
+        "item_cost": -1
+      },
+      {
+        "item_name": "HNYMD SMORES",
+        "item_cost": 3.98
+      },
+      {
+        "item_name": "FRENCH DRSNG",
+        "item_cost": 1.98
+      },
+      {
+        "item_name": "3 ORANGES",
+        "item_cost": 5.47
+      },
+      {
+        "item_name": "BABY CARROTS",
+        "item_cost": 1.48
+      },
+      {
+        "item_name": "COLLARDS",
+        "item_cost": 1.24
+      },
+      {
+        "item_name": "CALZONE",
+        "item_cost": 2.5
+      },
+      {
+        "item_name": "MM RVW MNT",
+        "item_cost": 19.77
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKOBRLPLABL",
+        "item_cost": 1.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "STKO SUNFLWR",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "BLING BEADS",
+        "item_cost": 0.97
+      },
+      {
+        "item_name": "GREAT VALUE",
+        "item_cost": 9.97
+      },
+      {
+        "item_name": "LIPTON",
+        "item_cost": 4.48
+      },
+      {
+        "item_name": "DRY DOG",
+        "item_cost": 12.44
+      }
+    ],
+    "tax": 4.59,
+    "total": 98.21,
+    "image_url": "/receipts/ea45a749-b9e9-4864-a923-94d024cbcf54.jpeg"
+  },
+  {
+    "id": "c5fb3f17-fd87-4c8d-ba02-46101b011a67",
+    "date": "2021-03-26",
+    "currency": "USD",
+    "vendor_name": "164 MAIN STREET - ROUTE 1",
+    "receipt_items": [
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "SB BGICE CB 10LB",
+        "item_cost": 2.99
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 2
+      },
+      {
+        "item_name": "HALLMARK CARD",
+        "item_cost": 3.49
+      },
+      {
+        "item_name": "HALLHARK CARD",
+        "item_cost": 0
+      },
+      {
+        "item_name": "MR CHARITY NP",
+        "item_cost": 1
+      }
+    ],
+    "tax": 0,
+    "total": 12.76,
+    "image_url": "/receipts/c5fb3f17-fd87-4c8d-ba02-46101b011a67.jpg"
+  }
+]
